@@ -72,7 +72,7 @@ const NoteForm = ({ notes, setNotes }) => {
 						required={true}
 						options={[
 							{ label: '🔴 High', value: 'High' },
-							{ label: '🟡 Medium', value: 'Medium' },
+							{ label: '🟠 Medium', value: 'Medium' },
 							{ label: '🟢 Low', value: 'Low' },
 						]}
 					/>
